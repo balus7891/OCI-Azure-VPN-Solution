@@ -1,7 +1,5 @@
-﻿# **Creating IPsec Connection between OCI - Azure Cloud**
-***IPSEC VPN Connection – OCI and Azure***
-
-
+﻿# **IPsec VPN Connection between OCI & Azure**
+ 
 
 **Statement of Requirements**
 
@@ -275,8 +273,6 @@ Create NSG and add rules to allow OCI network
 
 Ping me on slack if you need any calrifications.
 
-Thank you
+Thanks to Adamshaffi Shaik for the lab setup !
 
-***Adam***
-
-<adamshaffi.shaik@oracle.com>
+Thank you :) 

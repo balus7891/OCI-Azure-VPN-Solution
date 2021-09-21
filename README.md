@@ -271,7 +271,6 @@ Create NSG and add rules to allow OCI network
 
 **Hola !! Communication test is passed ![(smile)](images/Aspose.Words.aa7c2493-b54f-4201-a7c6-e46e6c3ee85d.027.png)**
 
-Ping me on slack if you need any calrifications.
 
 Thanks to Adamshaffi Shaik for the lab setup !
 
